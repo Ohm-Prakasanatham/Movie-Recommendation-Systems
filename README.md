@@ -9,3 +9,5 @@ Hybrid Engine: We brought together ideas from content and collaborative filterti
 
 Files:
 i)credits.csv: https://drive.google.com/file/d/1UbRKX-0A4I7izxViJgPjLprKK9IilIHM/view?usp=sharing
+
+ii)movies_metadata: https://drive.google.com/file/d/19uUR2lMNWvlrP9F0frKiM0jf41MNHpdj/view?usp=sharing
